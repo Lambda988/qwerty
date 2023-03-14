@@ -1,0 +1,21 @@
+
+.do-menu ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0;
+    list-style: none;
+    gap: 10px;
+}
+.img{
+    background-image: url("./picture.jpg");
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}
